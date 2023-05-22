@@ -1,4 +1,4 @@
-# Pactum JS suite for api and microservice testing
+# Pactum JS suite for api testing
 
 ## Setup
 - Use node version 16: ```nvm use v16.17.0```
